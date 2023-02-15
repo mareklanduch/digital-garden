@@ -22,8 +22,16 @@ jobs:
         uses: borales/actions-yarn@v4
         with:
           cmd: install
-          
+
       - name: Build with yarn
         uses: borales/actions-yarn@v4
         with:
           cmd: build
+    
+      - name: Sync files
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        with:
+          server: ${{secrets.FTP_SERVER}}
+          username: ${{secrets.FTP_USERNAME}}
+          password: ${{secrets.FTP_PASSWORD}}
+          local-dir: ./public/
