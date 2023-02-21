@@ -1,0 +1,1 @@
+Znakomity tani mikrofon dynamiczny.
