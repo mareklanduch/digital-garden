@@ -1,4 +1,4 @@
-# Lista urządzeń audio
+# Audio
 
 Poniżej znajduje się lista urządzeń audio, głównie mikrofonów, które miałem okazję przetestować i poznać bliżej. 
 

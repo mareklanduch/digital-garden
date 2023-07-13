@@ -1,0 +1,1 @@
+W swoich radiowych zasobach posiadam 2 wersje Motoroli GM350
