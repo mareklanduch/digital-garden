@@ -1,0 +1,2 @@
+# Radio
+Radiem zainteresowałem się w marcu 2023 roku, kiedy to znajomy w pracy pochwalił się nowym "gadżetem", była to krótkofalówka baofeng uv-5r📻, którego w pełnej nieświadomości używaliśmy nielegalnie. Dopiero zgłębiając temat nieco bardziej, znalazłem informację o PMR, CB, czy w końcu o egzaminie na operatora urządzeń radiowych, który udało mi się zdać w kwietniu 2023, a następnie otrzymałem pozwolenie radiowe w maju 2023.
